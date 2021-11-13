@@ -1,3 +1,5 @@
+## Description 
+
 Our task was to implement 10 queries for the MovieLens dataset and execute them in **PySpark**, with the following configurations for Apache Spark.
 - Single node local machine
 - Virtual cluster machine (1 master + 2 worker nodes)
